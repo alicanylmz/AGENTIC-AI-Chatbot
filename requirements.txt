@@ -1,0 +1,6 @@
+langchain==1.4.2
+langchain-google-genai==4.4.0
+langgraph==1.2.11
+gradio==6.28.0
+python-dotenv==1.2.3
+pydantic>=2.7,<3
