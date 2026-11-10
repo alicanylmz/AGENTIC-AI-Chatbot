@@ -2,7 +2,7 @@
 
 A tool-using customer-support chatbot that connects natural-language requests to explicit business rules. Built with **Python, LangChain, LangGraph, Google Gemini, and Gradio**, it helps customers of a fictional electronics retailer look up orders, check return eligibility, find policies, and request a simulated human handoff.
 
-Developed from my Agentic AI coursework and refactored into a standalone application. This repository contains the Python files needed to run and test the project; course notebooks, lecture materials, credentials, and notebook outputs are excluded.
+**Coursework attribution:** This project is based on exercises I completed in my Agentic AI class, particularly the W03b customer-support chatbot exercise. The original exercise and starter materials were provided as part of the course; this repository presents my completed work, refactored into a standalone application with additional testing and configuration. This repository contains the Python files needed to run and test the project; course notebooks, lecture materials, credentials, and notebook outputs are excluded.
 
 ## What it demonstrates
 
