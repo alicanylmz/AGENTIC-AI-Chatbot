@@ -105,8 +105,6 @@ Messages and relevant tool outputs are sent to the configured Gemini API. Use sy
 
 ## Credentials and attribution
 
-Credentials belong in a local `.env` or deployment environment variables. `.env` files, private-key files, caches, and virtual environments are ignored by Git. The distributed `.env.example` has no credential value.
-
-The starting point was the customer-support exercise in my Agentic AI coursework (`W03b`). This portfolio version reorganizes the application, adds explicit configuration, fixes conversation isolation, makes demo dates reproducible, clarifies simulated escalation, and adds automated checks. It does not claim the teaching exercise as an entirely original framework.
+The starting point was the customer-support exercise in my Agentic AI coursework (`W03b`). This portfolio version reorganizes the application, adds explicit configuration, fixes conversation isolation, makes demo dates reproducible, clarifies simulated escalation, and adds automated checks.
 
 Framework references: [LangChain agents](https://docs.langchain.com/oss/python/langchain/agents), [LangGraph memory](https://docs.langchain.com/oss/python/langgraph/add-memory), and [Gradio](https://www.gradio.app/docs).
